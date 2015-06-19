@@ -1,0 +1,1 @@
+web: gunicorn listfully.wsgi --log-file -
